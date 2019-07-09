@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Hello world!
  *
  */
-//wyb
+//wyb哈哈哈哈git老子学会了
 @SpringBootApplication
 @MapperScan("com.wyb.ssm.mapper")
 public class App {
